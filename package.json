@@ -61,7 +61,7 @@
     "@testing-library/react": "^11.2.6",
     "@types/bootstrap": "^4.3.3",
     "@types/css-minimizer-webpack-plugin": "^1.1.0",
-    "@types/jest": "^27.0.0"
+    "@types/jest": "^27.0.0",
     "@types/jquery": "^3.5.13",
     "@types/js-yaml": "^3.12.4",
     "@types/lodash.debounce": "^4.0.6",
